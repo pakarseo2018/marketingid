@@ -67,6 +67,33 @@ Bagi yang ingin mendapatkan bahan berkonten premium, tim akan membuatkan akun se
 
 Konten atau Revorma premium ini memiliki materi yang berbeda dari biasanya. Modul yang diberikan sangat lengkap dan bertahap pembelajarannya. Materi dimulai dari perkenalan dasar, kata kunci, bentuk juga jenisnya, link, formula untuk memulai bisnis online dan adsense, hingga bagian yang kerap diabaikan atau dianggap sepele dalam strategi SEO.
 
-Selain itu, di website ini juga memberikan layanan jasa PBN dan jasa SEO bagi yang tidak ingin pusing menulis artikel sejenis. Anda bisa langsung menghubungi nomor kontak yang tercantum di artikel berisi layanan jasa tersebut.
+Selain itu, di website ini juga memberikan layanan jasa PBN dan jasa SEO bagi yang tidak ingin pusing `menulis artikel <https://karinov.co.id/cara-seo-artikel-blog/>`_ sejenis. Anda bisa langsung menghubungi nomor kontak yang tercantum di artikel berisi layanan jasa tersebut.
+
+Mengenal SEO Tools Terbaik: Ahrefs
+==================
+
+Salah satu `tools digital terbaik <https://digital.readthedocs.io/en/latest/>`_ di tahun 2019 adalah Ahrefs. Meskipun biaya yang harus dikeluarkan tidaklah sedikit, namun sangat sebanding dengan beragam fitur yang tersedia di dalamnya. Berikut ini beberapa fitur unggulan dari tools ini, antara lain:
+
+- Site Explorer
+Fitur ini merupakan fitur utama dari tool Ahrefs yaitu sebagai backlink checker. Untuk mengaksesnya anda hanya perlu mengunjungi link https://ahrefs.com/site-explorer, lalu masukkan domain yang ingin anda cek backlinknya. Jika sudah anda bisa menutupnya dengan klik tombol “Search”.
+
+- Content Explorer
+Fitur selanjutnya yang akan anda peroleh ketika menggunakan tool ini adalah content explorer. Fungsi dari fitur ini adalah untuk mencari konten yang ada pada website kemudian mengurutkan sesuai dengan daya share di sosial media.
+
+Apabila daya share semakin tinggi maka potensi untuk viralnya juga semakin tinggi. Untuk mengaksesnya bisa langsung mengetikkan link https://ahrefs.com/content-explorer dan masukkan keyword yang ingin anda cek.
+
+- Fitur Position Explorer
+Fitur ini memiliki keunggulan yaitu mampu memperlihatkan keyword yang masuk ke domain tertentu. Selain itu anda juga bisa mengetahui kisaran jumlah trafik, kompetitor hingga halaman yang paling banyak mendapatkan trafik pada bagian top page.
+
+Anda akan mengetahui keyword yang masuk ke kompetitor lengkap dengan peringkatnya. Anda juga akan melihat konten apa saja yang mampu membawa banyak trafik pada bagian top page.
+
+- Position Tracker
+Berfungsi untuk memonitor posisi ranking atau peringkat dari web maupun kompetitor anda. Untuk melakukannya, anda hanya perlu masuk ke https://ahrefs.com/dashboard/add kemudian masukkan URL  dan eword yang ingin dicek sebelumnya.
+
+- Crawl Reports
+`Performa dan struktur SEO <https://www.navi.id/belajar-seo-wordpress-complete-guide/`_ pada website anda bisa dilihat menggunakan fitur ini. Apabila anda menemukan masalah juga bisa segera terlihat sehingga anda bisa segera memperbaikinya. Hal ini tentu saja penting dilakukan karena akan berpengaruh pada kualitas dari website anda.
+
+- Domain Comparison Tool
+Selain fitur-fitur yang sudah disebutkan di atas, anda juga akan menjumpai fitur yang bernama domain comparison tool. Anda bisa membandingkan kondisi backlink dari 5 domain dalam waktu yang bersamaan. Dengan begitu maka anda bisa mengetahui persaingan di niche anda secara sederhana dan cepat.
 
 - `Digital Marketing Organization <https://www.dmo.or.id/>`_
