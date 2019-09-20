@@ -91,7 +91,7 @@ Anda akan mengetahui keyword yang masuk ke kompetitor lengkap dengan peringkatny
 Berfungsi untuk memonitor posisi ranking atau peringkat dari web maupun kompetitor anda. Untuk melakukannya, anda hanya perlu masuk ke https://ahrefs.com/dashboard/add kemudian masukkan URL  dan eword yang ingin dicek sebelumnya.
 
 - Crawl Reports
-`Performa dan struktur SEO <https://www.navi.id/belajar-seo-wordpress-complete-guide/`_ pada website anda bisa dilihat menggunakan fitur ini. Apabila anda menemukan masalah juga bisa segera terlihat sehingga anda bisa segera memperbaikinya. Hal ini tentu saja penting dilakukan karena akan berpengaruh pada kualitas dari website anda.
+Performa dan `struktur SEO <https://www.navi.id/belajar-seo-wordpress-complete-guide/`_ pada website anda bisa dilihat menggunakan fitur ini. Apabila anda menemukan masalah juga bisa segera terlihat sehingga anda bisa segera memperbaikinya. Hal ini tentu saja penting dilakukan karena akan berpengaruh pada kualitas dari website anda.
 
 - Domain Comparison Tool
 Selain fitur-fitur yang sudah disebutkan di atas, anda juga akan menjumpai fitur yang bernama domain comparison tool. Anda bisa membandingkan kondisi backlink dari 5 domain dalam waktu yang bersamaan. Dengan begitu maka anda bisa mengetahui persaingan di niche anda secara sederhana dan cepat.
