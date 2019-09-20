@@ -53,7 +53,7 @@ Nama Ibrahim Vatih mungkin terasa tidak asing lagi terdengar. Namanya sudah aral
 
 Kecakapannya dalam SEO ini berhubungan dengan minat dan ketertarikannya yang sudah dimiliki sejak lama. Ibrahim Vatih mengaku bahwa ia menyukai bidang pemrograman hingga online marketing. Kesukaannya ini pun merambah ke hal lainnya dengan memperdalam website, ads, dan lingkup sejenisnya. Semua hal tersebut pun mengerucut dengan pendalaman SEO.
 
-Dengan menyukai `hal berbau SEO<https://karinov.co.id/cara-seo-youtube/>`_ membuatnya menjadi lebih mudah memahaminya. Penerapan SEO yang digunakannya bisa Anda lihat di dalam websitenya yaitu vatih.com. Disana Anda akan menemukan berbagai macam artikel yang ditulis untuk dibaca oleh jutaan pengguna daring.
+Dengan menyukai `hal berbau SEO <https://karinov.co.id/cara-seo-youtube/>`_ membuatnya menjadi lebih mudah memahaminya. Penerapan SEO yang digunakannya bisa Anda lihat di dalam websitenya yaitu vatih.com. Disana Anda akan menemukan berbagai macam artikel yang ditulis untuk dibaca oleh jutaan pengguna daring.
 
 Jika mengunjungi beranda websitenya dan mengklik salah satu artikel, maka selanjutnya Anda akan digiring pada halaman vatih.com/bisnis/. Revorma, begitulah nama untuk lanjutan dari halaman utama tadi.
 
