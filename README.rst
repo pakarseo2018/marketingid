@@ -42,7 +42,6 @@ The project is licensed under the BSD license.
 
 - https://karinov.co.id - jasa digital marketing indonesia
 - `Panduan Navigasi Wisata Indonesia <https://www.navi.id>`_
-- https://blogs.itb.ac.id/wikia - catatan hidup mahasiswa wikia alfa
-- https://blogs.itb.ac.id/feeds - kumpulan tautan berita terbaru indonesia
-- https://www.m-edukasi.web.id - portal bisnis online dan umkm
-- https://www.pelita.or.id - harian pelita portal informasi terkini
+- `Review Speaker dan Sound System Terbaik <https://www.fedora.or.id>`_
+- `Portal Pemerintahan dan Pendidikan <https://id.karinov.co.id>`_
+- `Informasi Pendidikan Indonesia <https://www.evaluasi.or.id>`_
