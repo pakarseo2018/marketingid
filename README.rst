@@ -1,6 +1,7 @@
 Template
 ========
 
+- `Panduan Navigasi Wisata Indonesia <https://www.navi.id>`_
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
 
@@ -41,7 +42,6 @@ License
 The project is licensed under the BSD license.
 
 - https://karinov.co.id - jasa digital marketing indonesia
-- `Panduan Navigasi Wisata Indonesia <https://www.navi.id>`_
 - `Review Speaker dan Sound System Terbaik <https://www.fedora.or.id>`_
 - `Portal Pemerintahan dan Pendidikan <https://id.karinov.co.id>`_
 - `Informasi Pendidikan Indonesia <https://www.evaluasi.or.id>`_
