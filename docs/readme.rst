@@ -3,8 +3,7 @@
 Karinov Media Network 
 ==================
 - https://karinov.co.id - jasa digital marketing indonesia
-- https://www.tnol.co.id - forum modifikasi otomotif indonesia
-- https://blogs.itb.ac.id/wikia - catatan hidup mahasiswa wikia alfa
+- https://www.navi.id - forum modifikasi otomotif indonesia
 - https://blogs.itb.ac.id/feeds - kumpulan tautan berita terbaru indonesia
-- https://www.m-edukasi.web.id - portal bisnis online dan umkm
-- https://www.pelita.or.id - harian pelita portal informasi terkini
+- https://www.fedora.or.id - portal speaker dan audio
+- https://www.autobild.co.id - harian pelita portal informasi terkini
