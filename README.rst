@@ -41,7 +41,20 @@ License
 
 The project is licensed under the BSD license.
 
-- https://karinov.co.id - jasa digital marketing indonesia
-- `Review Speaker dan Sound System Terbaik <https://www.fedora.or.id>`_
-- `Portal Pemerintahan dan Pendidikan <https://id.karinov.co.id>`_
-- `Informasi Pendidikan Indonesia <https://www.evaluasi.or.id>`_
+- `kaos distro <https://www.grosirkaosdistro.net/>`_
+- `kaos bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir kaos di bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir kaos bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir bandung <https://www.grosirkaosdistro.net/>`_
+- `baju bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir baju bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir kaos <https://www.grosirkaosdistro.net/>`_
+- `grosir kaos murah <https://www.grosirkaosdistro.net/>`_
+- `grosir baju murah <https://www.grosirkaosdistro.net/>`_
+- `grosir <https://www.grosirkaosdistro.net/>`_
+- `grosir murah <https://www.grosirkaosdistro.net/>`_
+- `grosir murah di bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir distro <https://www.grosirkaosdistro.net/>`_
+- `grosir bandung murah <https://www.grosirkaosdistro.net/>`_
+- `grosir online <https://www.grosirkaosdistro.net/>`_
+
