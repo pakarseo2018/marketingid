@@ -26,6 +26,12 @@ Indices and tables
 Karinov Media Network 
 ==================
 - `jasa digital marketing indonesia <https://karinov.co.id/>`_
+- `grosir kaos distro <https://www.grosirkaosdistro.net/>`_
+- `grosir kaos <https://www.grosirkaosdistro.net/>`_
+- `grosir distro <https://www.grosirkaosdistro.net/>`_
+- `grosir bandung <https://www.grosirkaosdistro.net/>`_
+- `grosir baju <https://www.grosirkaosdistro.net/>`_
+- `grosir baju bandung <https://www.grosirkaosdistro.net/>`_
 - `navigasi pariwisata indonesia <https://www.navi.id>`_
 - `skema box speaker dan review audio terbaru <https://www.fedora.or.id>`_ 
 - `kumpulan tautan berita terbaru indonesia <https://blogs.itb.ac.id/feeds>`_ 
